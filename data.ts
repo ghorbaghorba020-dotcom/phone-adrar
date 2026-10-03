@@ -39,7 +39,7 @@ export type Shop = {
 
 // Fictional shops. Phone/WhatsApp numbers are placeholders, never real.
 export const SHOPS: Shop[] = [
-  { slug: "adrar-mobile", name: "Adrar Mobile", tagline: "هواتف ذكية وإكسسوارات", address: "وسط المدينة", wilaya: "adrar", phone: "0000000001", whatsapp: "213000000001", hours: "09:00 – 20:00", verified: true, rating: 4.8, reviews: 126, mapQuery: "Adrar Algeria" },
+  { slug: "adrar-mobile", name: Phone Adrar", tagline: "هواتف ذكية وإكسسوارات", address: "وسط المدينة", wilaya: "adrar", phone: "0000000001", whatsapp: "213000000001", hours: "09:00 – 20:00", verified: true, rating: 4.8, reviews: 126, mapQuery: "Adrar Algeria" },
   { slug: "sahara-phone", name: "Sahara Phone", tagline: "أحدث الهواتف بأسعار تنافسية", address: "شارع الاستقلال", wilaya: "adrar", phone: "0000000002", whatsapp: "213000000002", hours: "08:30 – 21:00", verified: true, rating: 4.7, reviews: 98, mapQuery: "Adrar Algeria" },
   { slug: "adrar-smart", name: "Adrar Smart", tagline: "آيفون وسامسونغ بضمان", address: "حي النصر", wilaya: "adrar", phone: "0000000003", whatsapp: "213000000003", hours: "09:00 – 19:30", verified: true, rating: 4.9, reviews: 154, mapQuery: "Adrar Algeria" },
   { slug: "el-bahja-mobile", name: "El Bahja Mobile", tagline: "هواتف وصيانة", address: "سوق المدينة", wilaya: "adrar", phone: "0000000004", whatsapp: "213000000004", hours: "10:00 – 20:00", verified: false, rating: 4.5, reviews: 61, mapQuery: "Adrar Algeria" },
